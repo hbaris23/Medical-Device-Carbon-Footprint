@@ -1,0 +1,7 @@
+device_name,power_watt,daily_hours,standby_hours
+Hasta Monitörü,80,12,12
+Ventilatör,300,24,0
+İnfüzyon Pompası,25,10,14
+EKG Cihazı,50,4,20
+Ultrason Cihazı,500,6,18
+Defibrilatör,100,1,23
